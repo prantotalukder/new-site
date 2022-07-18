@@ -1,2 +1,2 @@
 # new-site
-https://prantotalukder.github.io/new-site/
+http://127.0.0.1:5500/index.html
